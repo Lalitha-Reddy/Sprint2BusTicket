@@ -1,0 +1,21 @@
+[
+  "test_bus.py::TestRedBus::test_bus[Chrome-12@1223-Bangalore-Lalitha-22'-vvlr0227@gmail.com-7036282524'-lalithavennapusa12@ybl]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-12@1223-Bangalore-Secunderabad, Hyderabad-Anand Rao Circle, Bangalore-Lalitha-22'-vvlr0227@gmail.com-7036282524'-lalithavennapusa12@ybl]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-12344##$$-Secunderabad, Hyderabad-Anand Rao Circle, Bangalore-Lalitha-25'-vvlr0227@gmail.com-7036282524'-lalith122y]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-Bangalore-12345.0-Anand Rao Circle, Bangalore-Lalitha-26'-vvlr0227@gmail.com-7036282524'-lalith125y]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-Bangalore-Lalitha-21'-vvlr0227@gmail.com-7036282524'-lalithavennapusa21@ybl]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-Bangalore-Lalitha-22'-vvlr0227@gmail.com-7036282524'-lalithavennapusa12@ybl]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-Bangalore-Secunderabad, Hyderabad-1234455666.0-Lalitha-27'-vvlr0227@gmail.com-7036282524'-lalith126y]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-Bangalore-Secunderabad, Hyderabad-Anand Rao Circle, Bangalore-123456.0-28'-vvlr0227@gmail.com-7036282524'-lalith121y]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-Bangalore-Secunderabad, Hyderabad-Anand Rao Circle, Bangalore-Lalitha-100'-vvlr0227@gmail.com-7036282524'-lalith128y]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-Bangalore-Secunderabad, Hyderabad-Anand Rao Circle, Bangalore-Lalitha-21'-vvlr0227@gmail.com-7036282524'-lalithavennapusa21@ybl]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-Bangalore-Secunderabad, Hyderabad-Anand Rao Circle, Bangalore-Lalitha-30'-vvlreddy-7036282524'-lalith135y]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-Bangalore-Secunderabad, Hyderabad-Anand Rao Circle, Bangalore-Lalitha-31'-vvlr0227@gmail.com-703628'-lalith134y]",
+  "test_bus.py::TestRedBus::test_bus[Chrome-Hyderabad-Bangalore-Secunderabad, Hyderabad-Anand Rao Circle, Bangalore-Lalitha-32'-vvlr0227@gmail.com-7036282524'-lalith124y]",
+  "test_bus.py::TestRedBus::test_bus[Chrome]",
+  "test_bus.py::TestRedBus::test_bus[Edge]",
+  "test_bus.py::TestRedBus::test_busy[Chrome]",
+  "test_bus.py::TestRedBus::test_busy[Edge]",
+  "test_bus.py::Test_Bus::test_busticket[Chrome]",
+  "test_bus.py::Test_Bus::test_busticket[Edge]"
+]
